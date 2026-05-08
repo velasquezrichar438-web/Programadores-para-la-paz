@@ -1,0 +1,9 @@
+Es importante que los proyectos de software mantengan un registro de cambios usando Git porque permite llevar control de cada modificación realizada.
+Esto ayuda a identificar errores y volver a versiones anteriores si algo falla.
+También permite que varias personas trabajen en el mismo proyecto sin perder información.
+Git facilita la organización del desarrollo y mejora la productividad del equipo.
+Además, permite saber quién hizo un cambio, cuándo lo hizo y por qué lo hizo.
+Esto se conoce como trazabilidad y es clave para mantener orden en el proyecto.
+Otro punto importante es que el historial de commits sirve como evidencia del progreso del trabajo.
+Gracias a Git se reduce el riesgo de perder avances importantes.
+En general, Git hace que el desarrollo sea más seguro, ordenado y profesional.
