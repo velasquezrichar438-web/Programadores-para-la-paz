@@ -1,0 +1,11 @@
+Las plataformas tecnológicas deben recibir información de forma estructurada
+ porque esto permite organizar mejor los datos enviados por los ciudadanos. 
+ Cuando los reportes tienen un formato definido, es más fácil almacenarlos, analizarlos y 
+ darles seguimiento. Además, se reducen errores en la captura de información y 
+ se mejora la calidad de los registros. En una comunidad, esto facilita la gestión de 
+ incidencias y necesidades de la población.
+ También permite que las autoridades respondan de manera más rápida y eficiente. 
+ El uso de formatos como JSON ayuda a que diferentes sistemas intercambien información   correctamente. 
+ De esta forma se fortalece la comunicación entre ciudadanos y entidades. 
+Finalmente, una información bien organizada contribuye a la toma de decisiones y 
+al mejoramiento de los servicios para la comunidad.
