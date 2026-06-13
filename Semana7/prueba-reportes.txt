@@ -1,0 +1,7 @@
+Se realizó una prueba de la API utilizando la ruta POST /reportes para registrar un reporte ciudadano.
+
+Posteriormente se utilizó la ruta GET /reportes para consultar la información almacenada.
+
+Al realizar la consulta, el servidor devuelve una lista con todos los reportes registrados en memoria, mostrando el identificador, el tipo y la descripción de cada reporte.
+
+Cada vez que se registra un nuevo reporte mediante POST, este queda disponible para ser consultado mediante GET mientras el servidor permanezca encendido.
