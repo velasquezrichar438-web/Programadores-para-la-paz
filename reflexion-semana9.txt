@@ -1,0 +1,8 @@
+Las plataformas comunitarias necesitan servidores estables para funcionar correctamente.
+Un servidor permite responder solicitudes de los usuarios en tiempo real.
+La seguridad es importante para proteger la información de las personas.
+Los logs ayudan a detectar errores y mejorar el sistema.
+Si el servidor falla, la plataforma deja de funcionar.
+Por eso es importante monitorear su estado constantemente.
+Node.js permite crear servidores rápidos y eficientes.
+Esto garantiza una mejor experiencia para la comunidad.
