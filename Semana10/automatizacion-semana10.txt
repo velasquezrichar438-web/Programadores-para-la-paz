@@ -1,8 +1,8 @@
 Evento que activa el flujo:
-Se registra un nuevo reporte en la plataforma.
+Cuando un revisor cambia el estado de una solicitud.
 
 Mensaje enviado a Telegram:
-"Nuevo reporte recibido. Revisar el sistema para iniciar la gestión."
+"La solicitud fue actualizada. Ingrese a la plataforma para revisar el nuevo estado."
 
 Información que no debe enviarse:
-No se deben enviar nombres completos, números de documento, direcciones, teléfonos, contraseñas, tokens ni ningún dato personal o sensible.
+No se deben compartir nombres de los ciudadanos, números de identificación, direcciones, teléfonos, correos electrónicos, contraseñas ni ningún otro dato personal o confidencial.
