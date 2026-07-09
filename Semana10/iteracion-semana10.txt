@@ -1,12 +1,12 @@
 Las dos primeras tareas que realizaría son:
 
-1. Permitir que el ciudadano registre una incidencia.
-2. Enviar una notificación al coordinador cuando se registre un nuevo reporte.
+1. Crear la función para registrar una solicitud.
+2. Implementar la consulta del estado de la solicitud.
 
-Estas tareas son las más importantes porque permiten iniciar el proceso de registro y seguimiento de los reportes.
+Estas tareas son las más importantes porque permiten que los ciudadanos utilicen la plataforma desde el inicio y hagan seguimiento a sus solicitudes.
 
 Para mí una tarea está terminada cuando:
 
-- Funciona correctamente.
-- Fue probada y no presenta errores.
-- Quedó registrada y publicada en GitHub.
+- Cumple con todos los requisitos definidos.
+- Fue revisada y funciona correctamente.
+- Quedó documentada y publicada en el repositorio de GitHub.
