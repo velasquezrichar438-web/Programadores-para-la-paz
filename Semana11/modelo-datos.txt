@@ -1,0 +1,27 @@
+Modelo de datos para una plataforma comunitaria
+
+Entidad: Solicitud
+
+Campos principales:
+- id
+- asunto
+- descripcion
+- categoria
+- fecha_registro
+- estado
+
+Propósito:
+Almacenar las solicitudes o reportes realizados por los ciudadanos para hacer seguimiento a cada caso.
+
+
+Entidad: Usuario
+
+Campos principales:
+- id
+- nombre_usuario
+- correo
+- rol
+- fecha_registro
+
+Propósito:
+Gestionar la información básica de las personas autorizadas para acceder a la plataforma y definir los permisos según su rol.
