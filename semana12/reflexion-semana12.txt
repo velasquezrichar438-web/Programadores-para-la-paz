@@ -1,0 +1,7 @@
+Durante este curso aprendí que la tecnología puede facilitar la participación ciudadana y 
+mejorar la organización de las comunidades. 
+También comprendí cómo utilizar Node.js, Express, Git y GitHub para desarrollar aplicaciones
+de manera ordenada. Aprendí la importancia de proteger los datos personales y aplicar buenas prácticas de seguridad. Conocí el uso de bases de datos, 
+la generación automática de documentos PDF y la automatización mediante n8n y Telegram.demás, entendí la importancia del trabajo colaborativo, el control de versiones y la documentación de los proyectos.
+Considero que estos conocimientos serán útiles para desarrollar soluciones que beneficien 
+a las comunidades y fortalezcan la participación ciudadana de forma responsable.
